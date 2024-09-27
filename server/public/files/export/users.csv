@@ -1,0 +1,5 @@
+FirstName,LastName,Email,Phone,Gender,Status,Profile,Location,DateCreated,DateUpdated
+Shailendra,Namdev,rter@gmail.com,2342342341,male,InActive,-,rewa,Tue May 21 2024 01:20:06 GMT+0530 (India Standard Time),Wed May 22 2024 05:04:09 GMT+0530 (India Standard Time)
+Ravendra,Namdev,nravi@gmail.com,6667677671,male,Active,-,Rewa,Wed May 22 2024 06:52:34 GMT+0530 (India Standard Time),-
+Avnish,frendish,avi@gmail.com,1112223331,female,Active,-,Bihar,Thu May 23 2024 11:05:27 GMT+0530 (India Standard Time),Thu May 23 2024 04:06:01 GMT+0530 (India Standard Time)
+tiger,kumar,tig@gmail.com,8383838833,male,InActive,-,satna,Thu May 23 2024 03:50:12 GMT+0530 (India Standard Time),Thu May 23 2024 04:11:33 GMT+0530 (India Standard Time)
